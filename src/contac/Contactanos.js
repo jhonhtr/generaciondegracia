@@ -39,7 +39,7 @@ const Contactanos = () => {
 
             <div className='cont'>
                 <div className='cont1'>
-                    <h4 className='context'>Si tienes entre 15 y 26 años llámanos o escribenos <br/>
+                    <h4 className='context'>Si tienes entre 15 y 30 años llámanos o escribenos <br/>
                         al siguiente Número:
                     </h4>
                     <div className='cont2'>
