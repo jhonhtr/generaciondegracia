@@ -153,7 +153,7 @@ const Inicio = () => {
                     Dona aquí:
                     </h4>
                     <div className='dona2'>
-                        <a>Nequi: 3205119854 <br/><br/>
+                        <a>Nequi: 3134820721 <br/><br/>
                         Por cuenta bancaria: <br/>
                         Cuenta de ahorros Bancolombia: <br/>
                         912-623931-57 <br/>
