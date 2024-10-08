@@ -153,11 +153,11 @@ const Inicio = () => {
                     Dona aquí:
                     </h4>
                     <div className='dona2'>
-                        <a>Nequi: 3134820721 <br/><br/>
+                        <a>Nequi: 3134820721 Juan David Castillo Franco<br/><br/>
                         Por cuenta bancaria: <br/>
-                        Cuenta de ahorros Bancolombia: <br/>
-                        912-623931-57 <br/>
-                        A nombre de: Jhon Tierradentro <br/><br/>
+                        Cuenta de ahorros Banco Caja Social: <br/>
+                        24111346789 <br/>
+                        A nombre de: Eva Aleman <br/><br/>
                         Donaciones en nuestra sede en: <br/>
                         Dirección: Cra 101 # 56f sur - 93 Brr Santa Fe, Bogotá D.C. <br/><br/>
                         Al finalizar su transacción, recuerde enviarnos el <br/>
