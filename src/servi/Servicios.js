@@ -61,7 +61,7 @@ const Servicio = () => {
                 </div>
                 <div className='servicios3'>
                     <p className='p3'>Miércoles<br/>
-                    Culto de Damas<br/>
+                    Culto Congregacional<br/>
                     07:00 pm - 08:30 pm</p>
                 </div>
             </div>
