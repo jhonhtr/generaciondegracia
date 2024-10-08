@@ -82,7 +82,7 @@ const Servicio = () => {
                     Culto de Niños<br/>
                     04:00 pm - 06:00 pm<br/>
                     Culto de Jóvenes<br/>
-                    07:00 pm - 08:30 pm</p>
+                    06:00 pm - 07:30 pm</p>
                 </div>
             </div>
 
