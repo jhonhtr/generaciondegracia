@@ -179,7 +179,7 @@ const Inicio = () => {
                     href="https://wa.me/+573205119854">+573205119854</a>
                      / <a target="_blank" rel="noopener noreferrer" 
                      href="mailto:jhonhtr@gmail.com">jhonhtr@gmail.com </a>
-                    <a href="#titulojofra">- ir al comienzo</a>
+                    <a href="#menu">- ir al comienzo</a>
                 </section>
                 <p>Lider Juvenil: Yairis González Villadiego<br/>                
                 Derechos Reservados- Copyright 2024</p>
